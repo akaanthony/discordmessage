@@ -22,4 +22,4 @@ async def on_message(message):
     
     
 
-client.run('enter key here')
+client.run('NzY3NTEwOTQ2MjU1NDcwNjQ0.X4y-RQ.DU_CovwdzgGOtAExK7iRljgb27Y')
